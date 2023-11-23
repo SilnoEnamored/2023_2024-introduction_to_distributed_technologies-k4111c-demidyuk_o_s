@@ -39,7 +39,7 @@ commit: 8220a6eb95f0a4d75f7f2d7b14cef975f050512d
 
 ![Image text](https://github.com/SilnoEnamored/2023_2024-introduction_to_distributed_technologies-k4111c-demidyuk_o_s/raw/main/lab1/screenshots/2.jpg)
 
-3. Содзан манифест создания пода.
+3. Содзан манифест создания пода first-pod.yaml.
 
 ```yaml
 apiVersion: v1
