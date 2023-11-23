@@ -81,3 +81,14 @@ spec:
 ```
 ![Image text](https://github.com/SilnoEnamored/2023_2024-introduction_to_distributed_technologies-k4111c-demidyuk_o_s/raw/main/lab1/screenshots/4.jpg)
 
+6. Получен токен для входа в Vault с помощью просмотра логов контейнера.
+
+![Image text](https://github.com/SilnoEnamored/2023_2024-introduction_to_distributed_technologies-k4111c-demidyuk_o_s/raw/main/lab1/screenshots/6.jpg)
+
+7. Произведен проброс портов c локальной машины в контейнер через сервис.
+
+![Image text](https://github.com/SilnoEnamored/2023_2024-introduction_to_distributed_technologies-k4111c-demidyuk_o_s/raw/main/lab1/screenshots/5.jpg)
+
+8. Произведен вход в Vault.
+
+![Image text](https://github.com/SilnoEnamored/2023_2024-introduction_to_distributed_technologies-k4111c-demidyuk_o_s/raw/main/lab1/screenshots/7.jpg)
