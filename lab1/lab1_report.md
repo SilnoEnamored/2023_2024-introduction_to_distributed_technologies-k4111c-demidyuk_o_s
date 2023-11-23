@@ -57,4 +57,25 @@ spec:
         - containerPort: 8200
           name: http
 ```
+4. Под поднят в Minikube кластере.
 
+![Image text](https://github.com/SilnoEnamored/2023_2024-introduction_to_distributed_technologies-k4111c-demidyuk_o_s/raw/main/lab1/screenshots/3.jpg)  
+
+6. Создан сервис.
+   
+```yaml
+apiVersion: v1
+kind: Service
+metadata:
+  name: vault
+  namespace: vault
+  labels:
+    run: vault
+spec:
+  ports:
+  - port: 8200
+    targetPort: 8200
+    protocol: TCP
+  selector:
+    app: vault
+```
