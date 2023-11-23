@@ -61,7 +61,7 @@ spec:
 
 ![Image text](https://github.com/SilnoEnamored/2023_2024-introduction_to_distributed_technologies-k4111c-demidyuk_o_s/raw/main/lab1/screenshots/3.jpg)  
 
-6. Создан сервис.
+5. Создан сервис для доступа к поду.
    
 ```yaml
 apiVersion: v1
@@ -79,3 +79,5 @@ spec:
   selector:
     app: vault
 ```
+![Image text](https://github.com/SilnoEnamored/2023_2024-introduction_to_distributed_technologies-k4111c-demidyuk_o_s/raw/main/lab1/screenshots/4.jpg)
+
