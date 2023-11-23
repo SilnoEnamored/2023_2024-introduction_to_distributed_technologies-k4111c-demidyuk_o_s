@@ -5,8 +5,8 @@ Year: 2023
 Group: K4111c  
 Author: Demidyuk Oleg Sergeevich  
 Lab: Lab2  
-Date of create: 22.11.2023 
-Date of finished: 22.11.2023
+Date of create: 23.11.2023 
+Date of finished: 23.11.2023
 
 ### Цель работы:
 
