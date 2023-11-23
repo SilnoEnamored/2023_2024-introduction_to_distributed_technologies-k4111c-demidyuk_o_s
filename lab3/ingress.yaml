@@ -1,0 +1,20 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: ingress-services
+spec:
+  tls:
+    - hosts:
+        - kube.example.com
+      secretName: ingress-tls
+  rules:
+    - host: kube.example.com
+      http:
+        paths:
+          - pathType: Prefix
+            path: /react
+            backend:
+              service:
+                name: react-np
+                port:
+                  number: 80
