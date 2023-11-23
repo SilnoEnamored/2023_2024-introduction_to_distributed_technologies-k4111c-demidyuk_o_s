@@ -4,9 +4,9 @@ Course: [Introduction to distributed technologies](https://github.com/itmo-ict-f
 Year: 2023  
 Group: K4111c  
 Author: Demidyuk Oleg Sergeevich  
-Lab: Lab1  
-Date of create: 20.11.2023 
-Date of finished: 23.11.2023 
+Lab: Lab1   
+Date of create: 20.11.2023  
+Date of finished: 23.11.2023  
 
 ### Цель работы:
 
