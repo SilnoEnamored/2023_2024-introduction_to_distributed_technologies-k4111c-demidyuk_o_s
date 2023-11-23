@@ -1,11 +1,13 @@
 University: [ITMO University](https://itmo.ru/ru/)  
 Faculty: [FICT](https://fict.itmo.ru)    
-Course: [Network programming](https://github.com/itmo-ict-faculty/network-programming)    
+Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)     
 Year: 2023  
-Group: K34212  
+Group: K4111c  
 Author: Demidyuk Oleg Sergeevich  
 Lab: Lab1  
-Date of create: 28.11.2022  
-Date of finished: 08.12.2022
+Date of create: 20.11.2023 
+Date of finished: 22.11.2023
 
 ### Цель работы:
+
+Ознакомиться с инструментами Minikube и Docker, развернуть свой первый "под".
