@@ -27,3 +27,8 @@ Client: Docker Engine - Community
  OS/Arch:           linux/amd64
  Context:           default
 ```
+```bash
+$ minikube version
+minikube version: v1.32.0
+commit: 8220a6eb95f0a4d75f7f2d7b14cef975f050512d
+```
