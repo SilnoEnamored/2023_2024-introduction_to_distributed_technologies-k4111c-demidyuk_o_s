@@ -137,7 +137,7 @@ $ sudo nano /etc/hosts
 
 11. Схема
 
-![Image text](https://github.com/SilnoEnamored/2023_2024-introduction_to_distributed_technologies-k4111c-demidyuk_o_s/raw/main/lab3/screenshots/8.jpg)
+![Image text](https://github.com/SilnoEnamored/2023_2024-introduction_to_distributed_technologies-k4111c-demidyuk_o_s/raw/main/lab3/screenshots/9.jpg)
 
 ### Вывод: 
 В результате выполнения лаборатнорной работы в ранее созданном кластере Minikube был поднят ингресс с использованием фейкового tls сертификата. Рассмотрены методы хранения конфигураций при помощи configMap, а также секретов minikube.
