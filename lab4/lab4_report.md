@@ -161,7 +161,7 @@ react-np     NodePort    10.96.187.24   <none>        80:30123/TCP   13s   app=f
 
 10. Получен доступ к подам через ip контейнера (Minikube узла) и проверены значения Container name и Container IP.
 
-
+![Image text](https://github.com/SilnoEnamored/2023_2024-introduction_to_distributed_technologies-k4111c-demidyuk_o_s/raw/main/lab4/screenshots/1.jpg)
 
 11. Осуществлена проверка достпуности подов с помощью пинга FQDN имени соседнего пода.
 
@@ -185,6 +185,7 @@ round-trip min/avg/max = 0.134/0.153/0.185 ms
 
 12. Схема.
 
+![Image text](https://github.com/SilnoEnamored/2023_2024-introduction_to_distributed_technologies-k4111c-demidyuk_o_s/raw/main/lab4/screenshots/2.jpg)
 
 
 ### Вывод
