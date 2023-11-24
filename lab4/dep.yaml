@@ -21,7 +21,7 @@ spec:
           name: react
           env:
             - name: REACT_APP_USERNAME
-              value: artem
+              value: SILNO
             - name: REACT_APP_COMPANY_NAME
               value: itmo
           ports:
